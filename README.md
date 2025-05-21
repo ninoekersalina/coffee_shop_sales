@@ -1,2 +1,17 @@
-# coffee_shop_sales
-Coffee Shop Sales Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details.
+# Coffee Shop Sales Analysis
+
+This project analyzes sales data from a fictional coffee shop using Python and Jupyter Notebooks.
+
+## 📊 Features
+- Sales trends analysis
+- Top-selling products
+- Customer behavior insights
+
+## 📁 Contents
+- `.ipynb` notebooks with data exploration and visualizations
+- Data files 
+
+
+
+```bash
+
